@@ -1,7 +1,7 @@
 
 
 <h1 align="center">👋 Hi, I'm Ait El Mahjoub Salaheddine</h1>
-<h3 align="center">Passionate Frontend Developer | Based in Morocco 🇲🇦</h3>
+<h3 align="center">Passionate Frontend Developer | Based in Morocco </h3>
 
 ---
 
@@ -45,7 +45,7 @@ I am a frontend developer passionate about creating smooth and interactive user 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+
 </div>
 
 #### Tools & Platforms
